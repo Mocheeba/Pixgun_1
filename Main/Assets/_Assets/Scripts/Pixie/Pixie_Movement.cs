@@ -8,13 +8,17 @@ using UnityEngine.InputSystem;
 public class Pixie_Movement : MonoBehaviour
 {
     [SerializeField] float runSpeed = 10f;
+    [SerializeField] float jumpSpeed = 10f;
 
     Vector2 moveInput;
     Rigidbody2D myRigidbody;
+    Animator myAnimator;
+
 
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
+        myAnimator = GetComponent<Animator>();
     }
 
     void Update()
@@ -28,10 +32,24 @@ public class Pixie_Movement : MonoBehaviour
         moveInput = value.Get<Vector2>();
     }
 
+
+    void OnJump(InputValue value)
+    {
+        if (value.isPressed) 
+        {
+            myRigidbody.velocity += new Vector2(0f, jumpSpeed);
+        }
+    }
+
+
     void Run() 
     {
         Vector2 playerVelocity = new Vector2 (moveInput.x * runSpeed, myRigidbody.velocity.y);
         myRigidbody.velocity = playerVelocity;
+
+        bool playerHasHorizontalSpeed = Mathf.Abs(myRigidbody.velocity.x) > Mathf.Epsilon;
+        myAnimator.SetBool("IsRunning", playerHasHorizontalSpeed);
+
     }
 
     void FlipSprite()
