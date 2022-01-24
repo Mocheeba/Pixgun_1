@@ -1,85 +1,88 @@
 fileFormatVersion: 2
-guid: 7a3a3ae9df4489a45b52c2f4b54e43ce
+guid: 2a031da474501eb41b0b9fe9f90a58dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7873427426290307120
-    second: Idle_bez6klatek_PyxelEdit_0
+      213: -8065288106529093802
+    second: Idle_PyxelEdit_0
   - first:
-      213: 242051938230291258
-    second: Idle_bez6klatek_PyxelEdit_1
+      213: 3021020393107313146
+    second: Idle_PyxelEdit_1
   - first:
-      213: -6276492468767409977
-    second: Idle_bez6klatek_PyxelEdit_2
+      213: -189823333739569507
+    second: Idle_PyxelEdit_2
   - first:
-      213: -2079328514639847628
-    second: Idle_bez6klatek_PyxelEdit_3
+      213: 8199147213937125204
+    second: Idle_PyxelEdit_3
   - first:
-      213: -3561730922967483068
-    second: Idle_bez6klatek_PyxelEdit_4
+      213: -6523653947564673735
+    second: Idle_PyxelEdit_4
   - first:
-      213: -8142840355406840770
-    second: Idle_bez6klatek_PyxelEdit_5
+      213: -1465614283398114423
+    second: Idle_PyxelEdit_5
   - first:
-      213: -8671509657438463057
-    second: Idle_bez6klatek_PyxelEdit_6
+      213: 868533638929711127
+    second: Idle_PyxelEdit_6
   - first:
-      213: 1365845570253341644
-    second: Idle_bez6klatek_PyxelEdit_7
+      213: -3656248310862238422
+    second: Idle_PyxelEdit_7
   - first:
-      213: -8959980179097983267
-    second: Idle_bez6klatek_PyxelEdit_8
+      213: 1848292102983744179
+    second: Idle_PyxelEdit_8
   - first:
-      213: -2519019380667889091
-    second: Idle_bez6klatek_PyxelEdit_9
+      213: 13595549372114015
+    second: Idle_PyxelEdit_9
   - first:
-      213: -7301775529381009706
-    second: Idle_bez6klatek_PyxelEdit_10
+      213: 9042472081199688870
+    second: Idle_PyxelEdit_10
   - first:
-      213: -6401496822053494640
-    second: Idle_bez6klatek_PyxelEdit_11
+      213: -5410504242129841443
+    second: Idle_PyxelEdit_11
   - first:
-      213: 6956870962648969357
-    second: Idle_bez6klatek_PyxelEdit_12
+      213: -7881720145187702651
+    second: Idle_PyxelEdit_12
   - first:
-      213: -2910860556168847559
-    second: Idle_bez6klatek_PyxelEdit_13
+      213: -3516435943498509018
+    second: Idle_PyxelEdit_13
   - first:
-      213: -2486152941320301073
-    second: Idle_bez6klatek_PyxelEdit_14
+      213: 7945761266966717500
+    second: Idle_PyxelEdit_14
   - first:
-      213: -8793124647052240286
-    second: Idle_bez6klatek_PyxelEdit_15
+      213: 6495859920182688210
+    second: Idle_PyxelEdit_15
   - first:
-      213: -960229127371529002
-    second: Idle_bez6klatek_PyxelEdit_16
+      213: 9222643037821283204
+    second: Idle_PyxelEdit_16
   - first:
-      213: 3936978449102198852
-    second: Idle_bez6klatek_PyxelEdit_17
+      213: 3145827281905275049
+    second: Idle_PyxelEdit_17
   - first:
-      213: 6067884861122405025
-    second: Idle_bez6klatek_PyxelEdit_18
+      213: 7864053093269344351
+    second: Idle_PyxelEdit_18
   - first:
-      213: -6512883288086910104
-    second: Idle_bez6klatek_PyxelEdit_19
+      213: -5265710080632049930
+    second: Idle_PyxelEdit_19
   - first:
-      213: -5472442160424711502
-    second: Idle_bez6klatek_PyxelEdit_20
+      213: -5338543878720963668
+    second: Idle_PyxelEdit_20
   - first:
-      213: -4686442903602743273
-    second: Idle_bez6klatek_PyxelEdit_21
+      213: -5283261822632994844
+    second: Idle_PyxelEdit_21
   - first:
-      213: 6821201213936248167
-    second: Idle_bez6klatek_PyxelEdit_22
+      213: -8519779774441434679
+    second: Idle_PyxelEdit_22
   - first:
-      213: 3476178521911511821
-    second: Idle_bez6klatek_PyxelEdit_23
+      213: -6675654498891335744
+    second: Idle_PyxelEdit_23
   - first:
-      213: 8370759293827814629
-    second: Idle_bez6klatek_PyxelEdit_25
+      213: -29361497061397344
+    second: Idle_PyxelEdit_24
   - first:
-      213: 8033810748552138977
-    second: Idle_bez6klatek_PyxelEdit_26
+      213: -1599947652152932063
+    second: Idle_PyxelEdit_25
+  - first:
+      213: -3518616535041171616
+    second: Idle_PyxelEdit_26
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -145,7 +148,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 7
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -157,7 +160,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 7
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -169,7 +172,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_0
+      name: Idle_PyxelEdit_0
       rect:
         serializedVersion: 2
         x: 20
@@ -183,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dfe5239877fbb290800000000000000
-      internalID: -7873427426290307120
+      spriteID: 6578627e237521090800000000000000
+      internalID: -8065288106529093802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_1
+      name: Idle_PyxelEdit_1
       rect:
         serializedVersion: 2
         x: 89
@@ -204,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3b496394f0fb5300800000000000000
-      internalID: 242051938230291258
+      spriteID: af15f5e9a02dce920800000000000000
+      internalID: 3021020393107313146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_2
+      name: Idle_PyxelEdit_2
       rect:
         serializedVersion: 2
         x: 148
@@ -225,14 +228,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c834bb9a5b65e8a0800000000000000
-      internalID: -6276492468767409977
+      spriteID: d9e5f560fac9d5df0800000000000000
+      internalID: -189823333739569507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_3
+      name: Idle_PyxelEdit_3
       rect:
         serializedVersion: 2
         x: 212
@@ -246,14 +249,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43f1d819bbdb423e0800000000000000
-      internalID: -2079328514639847628
+      spriteID: 4572bdb33f839c170800000000000000
+      internalID: 8199147213937125204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_4
+      name: Idle_PyxelEdit_4
       rect:
         serializedVersion: 2
         x: 276
@@ -267,14 +270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44dbffea890329ec0800000000000000
-      internalID: -3561730922967483068
+      spriteID: 93535d96c435775a0800000000000000
+      internalID: -6523653947564673735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_5
+      name: Idle_PyxelEdit_5
       rect:
         serializedVersion: 2
         x: 340
@@ -288,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3c7241e6d1defe80800000000000000
-      internalID: -8142840355406840770
+      spriteID: 983115c039719abe0800000000000000
+      internalID: -1465614283398114423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_6
+      name: Idle_PyxelEdit_6
       rect:
         serializedVersion: 2
         x: 404
@@ -309,14 +312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fabd20209eb98a780800000000000000
-      internalID: -8671509657438463057
+      spriteID: 71002ef2eb6ad0c00800000000000000
+      internalID: 868533638929711127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_7
+      name: Idle_PyxelEdit_7
       rect:
         serializedVersion: 2
         x: 468
@@ -330,19 +333,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc3cdf04f4574f210800000000000000
-      internalID: 1365845570253341644
+      spriteID: a2d2f6c6885624dc0800000000000000
+      internalID: -3656248310862238422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_8
+      name: Idle_PyxelEdit_8
       rect:
         serializedVersion: 2
         x: 532
         y: 21
-        width: 22
+        width: 19
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -351,14 +354,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd6e256cf71c7a380800000000000000
-      internalID: -8959980179097983267
+      spriteID: 3ba718fffd376a910800000000000000
+      internalID: 1848292102983744179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_9
+      name: Idle_PyxelEdit_9
       rect:
         serializedVersion: 2
         x: 596
@@ -372,14 +375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3a47f83835aa0dd0800000000000000
-      internalID: -2519019380667889091
+      spriteID: f54e9d2841d403000800000000000000
+      internalID: 13595549372114015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_10
+      name: Idle_PyxelEdit_10
       rect:
         serializedVersion: 2
         x: 660
@@ -393,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d6ea9da7d1eaaa90800000000000000
-      internalID: -7301775529381009706
+      spriteID: 6ac6b43e2705d7d70800000000000000
+      internalID: 9042472081199688870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_11
+      name: Idle_PyxelEdit_11
       rect:
         serializedVersion: 2
         x: 677
@@ -414,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 090a5b29e805927a0800000000000000
-      internalID: -6401496822053494640
+      spriteID: dd25b10de070ae4b0800000000000000
+      internalID: -5410504242129841443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_12
+      name: Idle_PyxelEdit_12
       rect:
         serializedVersion: 2
         x: 724
@@ -435,14 +438,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d80fbec0845cb8060800000000000000
-      internalID: 6956870962648969357
+      spriteID: 588fb0f79418e9290800000000000000
+      internalID: -7881720145187702651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_13
+      name: Idle_PyxelEdit_13
       rect:
         serializedVersion: 2
         x: 741
@@ -456,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93f1cde1fbb8a97d0800000000000000
-      internalID: -2910860556168847559
+      spriteID: 6251b58e32c133fc0800000000000000
+      internalID: -3516435943498509018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_14
+      name: Idle_PyxelEdit_14
       rect:
         serializedVersion: 2
         x: 788
@@ -477,14 +480,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe59f4372196f7dd0800000000000000
-      internalID: -2486152941320301073
+      spriteID: c34eb9b16c3054e60800000000000000
+      internalID: 7945761266966717500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_15
+      name: Idle_PyxelEdit_15
       rect:
         serializedVersion: 2
         x: 805
@@ -498,14 +501,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26a18b2b8bb88f580800000000000000
-      internalID: -8793124647052240286
+      spriteID: 2d9bf2d4e2ee52a50800000000000000
+      internalID: 6495859920182688210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_16
+      name: Idle_PyxelEdit_16
       rect:
         serializedVersion: 2
         x: 852
@@ -519,14 +522,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d4690832b49ca2f0800000000000000
-      internalID: -960229127371529002
+      spriteID: 48b219faaf86dff70800000000000000
+      internalID: 9222643037821283204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_17
+      name: Idle_PyxelEdit_17
       rect:
         serializedVersion: 2
         x: 869
@@ -540,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 448da1b5a05f2a630800000000000000
-      internalID: 3936978449102198852
+      spriteID: 9a052bede3938ab20800000000000000
+      internalID: 3145827281905275049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_18
+      name: Idle_PyxelEdit_18
       rect:
         serializedVersion: 2
         x: 916
@@ -561,14 +564,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a2eb25d125753450800000000000000
-      internalID: 6067884861122405025
+      spriteID: f50912f6f9ab22d60800000000000000
+      internalID: 7864053093269344351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_19
+      name: Idle_PyxelEdit_19
       rect:
         serializedVersion: 2
         x: 980
@@ -582,14 +585,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b600ef7279d95a0800000000000000
-      internalID: -6512883288086910104
+      spriteID: 6feabb1a4907ce6b0800000000000000
+      internalID: -5265710080632049930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_20
+      name: Idle_PyxelEdit_20
       rect:
         serializedVersion: 2
         x: 1044
@@ -603,14 +606,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ba830e69dafd04b0800000000000000
-      internalID: -5472442160424711502
+      spriteID: cab300b80aea9e5b0800000000000000
+      internalID: -5338543878720963668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_21
+      name: Idle_PyxelEdit_21
       rect:
         serializedVersion: 2
         x: 1061
@@ -624,14 +627,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 718bb9e420966feb0800000000000000
-      internalID: -4686442903602743273
+      spriteID: 4e7d39e3d551ea6b0800000000000000
+      internalID: -5283261822632994844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_22
+      name: Idle_PyxelEdit_22
       rect:
         serializedVersion: 2
         x: 1108
@@ -645,14 +648,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76522222d56c9ae50800000000000000
-      internalID: 6821201213936248167
+      spriteID: 9c15cd35f69a3c980800000000000000
+      internalID: -8519779774441434679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_23
+      name: Idle_PyxelEdit_23
       rect:
         serializedVersion: 2
         x: 1172
@@ -666,14 +669,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0bc066b2fddd3030800000000000000
-      internalID: 3476178521911511821
+      spriteID: 0c7f7563a9f4b53a0800000000000000
+      internalID: -6675654498891335744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_25
+      name: Idle_PyxelEdit_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace49dbfdfa79ff0800000000000000
+      internalID: -29361497061397344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_PyxelEdit_25
       rect:
         serializedVersion: 2
         x: 613
@@ -687,14 +711,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e418e04a39ea2470800000000000000
-      internalID: 8370759293827814629
+      spriteID: 12944365618dbc9e0800000000000000
+      internalID: -1599947652152932063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_bez6klatek_PyxelEdit_26
+      name: Idle_PyxelEdit_26
       rect:
         serializedVersion: 2
         x: 997
@@ -708,8 +732,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e05a249f44dd7f60800000000000000
-      internalID: 8033810748552138977
+      spriteID: 06f1e0067ec5b2fc0800000000000000
+      internalID: -3518616535041171616
       vertices: []
       indices: 
       edges: []
