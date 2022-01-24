@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 
 
-public class Pixie_Movement : MonoBehaviour
+public class Chixie_Movement : MonoBehaviour
 {
     [SerializeField] float runSpeed = 10f;
     [SerializeField] float jumpSpeed = 10f;
