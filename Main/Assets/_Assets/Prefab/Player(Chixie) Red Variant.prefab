@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2314268105563555781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6538712950636138960, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: d96b45e145f2bd64dabfcafa37074af0, type: 2}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138961, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138964, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_Name
+      value: Player(Chixie) Red
+      objectReference: {fileID: 0}
+    - target: {fileID: 6538712950636138965, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2077412781474501976, guid: 9fc659c76fa84604daade25fc96effd6, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7cc8eb7c1947eac43bb5e803f6cbeb3e, type: 3}
